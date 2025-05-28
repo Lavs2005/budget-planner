@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Budget Planner</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <main>
+    <h1>Budget Planner</h1>
+
+    <form id="budget-form">
+      <input type="text" id="desc" placeholder="Description" required />
+      <input type="number" id="amount" placeholder="Amount" required />
+      <select id="type">
+        <option value="income">Income</option>
+        <option value="expense">Expense</option>
+      </select>
+      <button type="submit">Add</button>
+      <button type="button" id="reset">Reset</button>
+    </form>
+
+    <section id="summary">
+      <p>Total Income: ₹<span id="total-income">0</span></p>
+      <p>Total Expense: ₹<span id="total-expense">0</span></p>
+      <p>Balance: ₹<span id="balance">0</span></p>
+    </section>
+
+    <ul id="transaction-list"></ul>
+
+    <canvas id="budget-chart" width="400" height="200"></canvas>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
