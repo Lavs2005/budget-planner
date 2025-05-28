@@ -20,10 +20,6 @@ let chart = new Chart(chartCtx, {
       data: [income, expense],
       backgroundColor: ['#4CAF50', '#F44336'],
     }]
-  },
-  options: {
-    responsive: true,
-    maintainAspectRatio: false
   }
 });
 
