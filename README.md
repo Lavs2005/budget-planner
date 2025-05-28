@@ -40,7 +40,7 @@ A colorful, interactive, and user-friendly web-based budget planner that helps u
 
 ## Installation 
 ```bash
-git clone 
+git clone https://github.com/Lavs2005/budget-planner.git
 cd budget-planner
 # Open index.html in browser or serve with a local server
 ```
@@ -48,7 +48,7 @@ cd budget-planner
 ## Live Demo
 
 Explore the live project here:  
-(https://your-username.github.io/budget-planner/)
+()
 
 
 
