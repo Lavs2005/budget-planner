@@ -40,9 +40,16 @@ A colorful, interactive, and user-friendly web-based budget planner that helps u
 
 ## Installation 
 ```bash
-git clone https://github.com/your-username/budget-planner.git
+git clone 
 cd budget-planner
-# Open index.html in browser or serve with a local server 
+# Open index.html in browser or serve with a local server
+```
+
+## Live Demo
+
+Explore the live project here:  
+(https://your-username.github.io/budget-planner/)
+
 
 
 
