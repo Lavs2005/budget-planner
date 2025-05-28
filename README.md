@@ -48,7 +48,7 @@ cd budget-planner
 ## Live Demo
 
 Explore the live project here:  
-()
+(https://lavs2005.github.io/budget-planner/)
 
 
 
