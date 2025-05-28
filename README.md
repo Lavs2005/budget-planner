@@ -50,6 +50,19 @@ cd budget-planner
 Explore the live project here:  
 (https://lavs2005.github.io/budget-planner/)
 
+## Screenshots
+
+### Image 1
+![Description of screenshot 1](screenshots/img1.png)
+
+### Image 2
+![Description of screenshot 2](screenshots/img2.png)
+
+### Imaget 3
+![Description of screenshot 3](screenshots/img3.png)
+
+### Image 4
+![Description of screenshot 4](screenshots/img4.png)
 
 
 
